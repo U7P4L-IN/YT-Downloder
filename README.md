@@ -71,7 +71,7 @@ YT Downloader is released under the AGPL-3.0 license, which grants the following
 For more convoluted language, see the [LICENSE](/LICENSE).
 
 # Report bugs
-If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: AnonyminHack5@protonmail.com">Gmail</a> or Open an issue via github.
+If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
 
 
 <br>
